@@ -2,8 +2,8 @@
 
 ![Header GIF](https://media1.tenor.com/m/EpZo1-zYubUAAAAd/anna-yanami-makeine.gif)
 
-# Welcome my profile
-i'm just beginners programming :3
+Welcome my profile
+-i'm just beginners programming :3
 
 Programming Languange :
 <p>
