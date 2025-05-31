@@ -36,12 +36,6 @@ Social Media :
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yuukizure)
 
 ▶️ [My stats in GitHub](#-my-github-stats)
-
-...
-
-## 📊 My GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoutamachiWorks&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SoutamachiWorks&hide=contribs,prs&theme=dark" />
 </p>
-
