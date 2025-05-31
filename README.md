@@ -35,7 +35,13 @@ Social Media :
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yukkireio._)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yuukizure)
 
-▶️ [My stats in Github](#)
+▶️ [My stats in GitHub](#-my-github-stats)
+
+...
+
+## 📊 My GitHub Stats
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SoutamachiWorks&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SoutamachiWorks&show_icons=true&theme=radical" />
 </p>
+
