@@ -37,7 +37,8 @@ Social Media :
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yukkireio._)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yuukizure)
 
-![Discord Status](https://lanyard.cnrad.dev/api/478820603646836747?random=123)
+### Lanyard (Dinamis)
+[![Discord](https://lanyard.cnrad.dev/api/478820603646836747)](https://discord.com/users/478820603646836747)
 
 
 <details>
