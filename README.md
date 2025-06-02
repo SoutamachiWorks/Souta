@@ -37,7 +37,7 @@ Social Media :
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yukkireio._)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yuukizure)
 
-[Discord](https://discord.c99.nl/widget/theme-2/478820603646836747.png)
+[![Discord](https://discord.c99.nl/widget/theme-2/478820603646836747.png)
 
 <details>
   <summary>▶️ [My stats in GitHub]</summary>
